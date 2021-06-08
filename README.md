@@ -1,4 +1,4 @@
-# Iron-Solo-Synthesizer
+# Website about the synthesizer
 This website is all about my first year project at Thomas More
 
 If you want to see my websites:
